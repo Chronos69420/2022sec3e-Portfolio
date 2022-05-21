@@ -5,3 +5,4 @@
 ## 📚 Academics
 
 * [Subjects](academics/subjects.md)
+* [Talent Programme](academics/talent-programme.md)
