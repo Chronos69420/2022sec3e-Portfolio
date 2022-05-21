@@ -13,4 +13,4 @@ description: Overview of subjects that I take.
 5. Higher Chinese
 6. Social Studies
 7. History
-8. **Computing**
+8. ****[**Computing**](talent-programme.md)****
