@@ -1,5 +1,5 @@
 ---
-description: Subjects that I take.
+description: Overview of subjects that I take.
 ---
 
 # Subjects
