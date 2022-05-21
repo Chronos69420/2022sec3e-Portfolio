@@ -1,5 +1,5 @@
 ---
-description: My talent programme
+description: My talent programme.
 ---
 
 # Talent Programme
@@ -12,10 +12,6 @@ I was interested in coding and programming since young and I felt that joining t
 
 However, I did not stop there and wanted to continue pursuing my passion. I heard of the CTP and the experiences that I could gain from it. It was also stated that not much prior knowledge was needed, so I had to grasp this chance.
 
-### Useful for PW
-
 The CTP also assisted me in my Cat 9: Infocomm Project Work this year, as there were many exclusive training sessions and courses for the CTP students.
-
-### Beneficial to CCA
 
 This could also assist me in my CCA, which is Robotics, as many skills I can learn from the CTP are also very useful for my CCA.
