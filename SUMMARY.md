@@ -7,3 +7,4 @@
 * [Subjects](academics/subjects.md)
 * [Talent Programme](academics/talent-programme.md)
 * [Accomplishments](academics/accomplishments.md)
+* [Getting There](academics/getting-there.md)
