@@ -6,7 +6,7 @@ description: A brief introduction of myself
 
 ## Hello!
 
-Hello, I am Zhu Yunsong, a Year 3 student from Hwa Chong Institution. My class from 2020 to 2022 are 1i2, 2i2 and 3a3 respectively.&#x20;
+Hello, I am Zhu Yunsong, a Year 3 student from Hwa Chong Institution. My class is 3A3 this year.
 
 ### Interests
 
