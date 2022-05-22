@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zhu Yunsong 2022 Sec3 e-Portfolio](README.md)
+* [Zhu Yunsong 2022 Sec 3 e-Portfolio](README.md)
 
 ## 📚 Academics
 
