@@ -38,7 +38,7 @@ For my project, our group is making use of development tools like Moralis and Ga
 
 Teamwork is very important for such a project to be a success, so my team has managed to spilt the work among our group members. The workload is split into 3 parts: UIUX Design, Web Design and Back-end design with members allocated to each section.
 
-I was allocated to UIUX Design as I had experience in graphic design
+I was allocated to UIUX Design as I had experience in [graphic design](../student-initiated-learning/graphic-design.md)
 
 ### Research
 

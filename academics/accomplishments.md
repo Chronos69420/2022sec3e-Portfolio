@@ -18,12 +18,10 @@ This was especially hard for me due to the amount of commitment required for my 
 
 ### Helping others with my skills and representing my class
 
-Furthermore, I have many friends who come to me for help, usually for Council or CMC work as I have experience in graphic design, video editing etc.
+Furthermore, I have many friends who come to me for help, usually for Council or CMC work as I have experience in [graphic design](../student-initiated-learning/graphic-design.md), [video editing](../student-initiated-learning/video-editing.md) etc.
 
 Recently, I just helped my classmates and CMC edit a video for the Appreciation Day Skit.
 
 On top of helping others, I can also gain experience, learn and become more proficient.
-
-****
 
 ****
