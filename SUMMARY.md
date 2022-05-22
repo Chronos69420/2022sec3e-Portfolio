@@ -15,3 +15,8 @@
 * [Sections](cca/sections.md)
 * [Skills I Picked Up](cca/skills-i-picked-up.md)
 * [My Robots](cca/my-robots.md)
+
+## 💻 Project Work
+
+* [Project Idea Summary](project-work/project-idea-summary.md)
+* [Things I Can Learn](project-work/things-i-can-learn.md)
