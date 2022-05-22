@@ -30,25 +30,25 @@ I also learnt how to use the 3D printer that our CCA owns.
 
 ![Fig. 3.3.3: Screenshot of 3D Priting Slicing Software (Ultimaker CURA)](<../.gitbook/assets/image (6) (1).png>)
 
-_**insert 3d printed parts here**_
+_**insert 3d printer and printed parts here**_
 
 Some of the tools I use for mechanical design, robot assembly etc.
 
-![Fig. 3.2.5: Left to Right: Screwdriver Kit & Case, Screwdriver, Electric Screwdriver, Penknife, Exacto Blade, Tweezers, Digital Vernier Calipers](<../.gitbook/assets/20220522\_103955 (1).jpg>)
+![Fig. 3.2.6: Left to Right: Screwdriver Kit & Case, Screwdriver, Electric Screwdriver, Penknife, Exacto Blade, Tweezers, Digital Vernier Calipers](<../.gitbook/assets/20220522\_103955 (1).jpg>)
 
 ## Electrical Design
 
 Electrical design refers to the designing of custom PCBs (Printed Circuit Boards) using design software like Autodesk EAGLE. This allows us to design custom circuits that fit our robot. I believe that this is an important skill and is very useful. I also get to learn about how electrical components work.
 
-Fig. 3.2.5 and 3.2.6 shows one of the many PCB designs from 2021 - 2022's RoboCup Lightweight Competition.
+Fig. 3.2.7 and 3.2.8 shows one of the many PCB designs from 2021 - 2022's RoboCup Lightweight Competition.
 
-![Fig. 3.2.6: Screenshot of Layer 1 PCB .brd design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (1).png>)
+![Fig. 3.2.7: Screenshot of Layer 1 PCB .brd design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (1).png>)
 
-![Fig. 3.2.7: Screenshot of Layer 1 PCB .sch design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (3).png>)
+![Fig. 3.2.8: Screenshot of Layer 1 PCB .sch design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (3).png>)
 
 Another skill I picked up is the skill of using a soldering iron. Soldering is a process in which two or more items are joined together by melting and putting a filler metal at high temperatures (\~350°C) into the joint, the filler metal having a lower melting point than the adjoining metal.
 
-![Fig 3.2.8: Google image of soldering process](<../.gitbook/assets/image (6).png>)
+![Fig 3.2.9: Google image of soldering process](<../.gitbook/assets/image (6).png>)
 
 _**insert cca soldering station here**_
 
