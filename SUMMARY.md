@@ -11,4 +11,7 @@
 
 ## 🤖 CCA
 
-* [Page 1](cca/page-1.md)
+* [Robotics](cca/robotics.md)
+* [Sections](cca/sections.md)
+* [Skills I Picked Up](cca/skills-i-picked-up.md)
+* [My Robots](cca/my-robots.md)
