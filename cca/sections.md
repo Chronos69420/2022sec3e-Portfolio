@@ -24,7 +24,7 @@ _When members of the Robotics CCA graduate from Sec 1, they are required to pick
 
 Similar to NRC, this competition's mission and theme change every year. However, instead of small plastic robotics, VEX builds robotics made of aluminium, and steel, combined with motors and pneumatics (gas pistons and air tanks), making this section a lot more technical.
 
-![Fig 3.2.2: VEX 2021 - 2022 robot playfield (Size of 4m x 4m)](<../.gitbook/assets/image (2).png>)
+![Fig 3.2.2: VEX 2021 - 2022 robot playfield (Size of 4m x 4m)](<../.gitbook/assets/image (2) (1).png>)
 
 The robots are also pretty big, usually the size of 0.5m x 0.5m
 
