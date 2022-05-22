@@ -18,5 +18,10 @@
 
 ## 💻 Project Work
 
-* [Project Idea Summary](project-work/project-idea-summary.md)
+* [Project Idea](project-work/project-idea.md)
 * [Things I Can Learn](project-work/things-i-can-learn.md)
+
+## 💡 Student-Initiated Learning
+
+* [Graphic Design](student-initiated-learning/graphic-design.md)
+* [Video Editing](student-initiated-learning/video-editing.md)

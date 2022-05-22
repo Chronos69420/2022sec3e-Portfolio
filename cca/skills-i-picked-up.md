@@ -8,7 +8,7 @@ description: Some useful skills I picked up from Robotics
 
 Mechanical Design refers to designing the mechanism and the more physical aspect of the robots. For example, I learnt how to prototype our robot parts by 3D Modelling them using CAD (computer-aided design) software.
 
-![Fig. 3.3.1: Screenshot of CAD Software (AutoCAD 2023) with RoboCup Robot](<../.gitbook/assets/image (5).png>)
+![Fig. 3.3.1: Screenshot of CAD Software (AutoCAD 2023) with RoboCup Robot](<../.gitbook/assets/image (5) (1).png>)
 
 Making analyses of mechanical parts is another important skill.
 
