@@ -64,6 +64,14 @@ I have designed multiple T-shirts for my class over the years.
 
 ![Fig. 5.1.7: 2022 Aphelion shirt design submission](../.gitbook/assets/aphelionshirt.png)
 
+#### Classwork and assignments
+
+There are many classwork and assignments that require designing a poster, making a graphic etc. When I work in groups with my friends, they usually put me in charge of anything related to designing and it also makes it much easier for me.
+
+#### Helping my friends who are in council
+
+Many of my friends in coucil need help related to graphic design and come to me for help sometimes. I am more than happy to help them as I can gain some experience and recognition for what I love to do as well.
+
 ### Earning some money from commissions
 
 Using social media and other various platforms, I have found people who wanted designs and agreed with me helping them. This allows me to earn some pocket money from doing commissions.
