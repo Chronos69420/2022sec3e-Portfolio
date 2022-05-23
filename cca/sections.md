@@ -18,7 +18,7 @@ The mission for this competition changes every year, and each year has a unique 
 
 Participants have to programme the robot they built to complete the mission to score points, within a time limit. This competition is completely autonomous.
 
-View my LEGO Bot here.
+View my LEGO Bot [here](my-robots.md#nrc-lego-bot).
 
 _When members of the Robotics CCA graduate from Sec 1, they are required to pick a section they would like to join for the next 3 years in the CCA. The 2 sections are_ [_VEX_](sections.md#undefined) _and_ [_RoboCup_](sections.md#robocup)_._
 
@@ -28,9 +28,7 @@ Similar to NRC, this competition's mission and theme change every year. However,
 
 ![Fig 3.2.2: VEX 2021 - 2022 robot playfield (Size of 4m x 4m)](<../.gitbook/assets/image (2) (1).png>)
 
-The robots are also pretty big, usually the size of 0.5m x 0.5m
-
-VEX competitions have both an autonomous and driver control segment.
+![Fig. 3.2.3: Team 8076A World Championships VEX bot](../.gitbook/assets/20220523\_164322.jpg)
 
 ### RoboCup
 
@@ -46,4 +44,4 @@ We then have to program and code our robot, integrating algorithms for robot pos
 
 I enjoy being part of this section as I can learn many useful [skills and techniques](skills-i-picked-up.md) that are definitely useful in the future.
 
-View my RoboCup Bot here.
+View my RoboCup Bot [here](my-robots.md#robocup-bot).

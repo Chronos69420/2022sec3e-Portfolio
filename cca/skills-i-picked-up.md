@@ -30,7 +30,9 @@ I also learnt how to use the 3D printer that our CCA owns.
 
 ![Fig. 3.3.3: Screenshot of 3D Priting Slicing Software (Ultimaker CURA)](<../.gitbook/assets/image (6) (1).png>)
 
-_**insert 3d printer and printed parts here**_
+![Fig. 3.3.4: Hwa Chong Robotics' Creality CR-10 3D printer](../.gitbook/assets/20220523\_163518.jpg)
+
+![Fig. 3.3.5: Some 3D printed parts for my RoboCup bot](../.gitbook/assets/20220523\_164005.jpg)
 
 Some of the tools I use for mechanical design, robot assembly etc.
 
@@ -46,11 +48,13 @@ Fig. 3.2.7 and 3.2.8 shows one of the many PCB designs from 2021 - 2022's RoboCu
 
 ![Fig. 3.3.8: Screenshot of Layer 1 PCB .sch design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (3) (1).png>)
 
+![Fig. 3.3.9: My robot's printed circuit boards](../.gitbook/assets/20220523\_163628.jpg)
+
 Another skill I picked up is the skill of using a soldering iron. Soldering is a process in which two or more items are joined together by melting and putting a filler metal at high temperatures (\~350°C) into the joint, the filler metal having a lower melting point than the adjoining metal.
 
 ![Fig 3.3.10: Google image of soldering process](<../.gitbook/assets/image (6).png>)
 
-_**insert cca soldering station here**_
+![Fig. 3.3.11: Hwa Chong Robotics' soldering station](../.gitbook/assets/20220523\_163527.jpg)
 
 ## Coding & Programming
 
