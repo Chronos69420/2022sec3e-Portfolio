@@ -54,11 +54,16 @@ Having such a skill enabled me to help my class and even the school design and c
 
 I have designed multiple T-shirts for my class over the years.
 
-![Fig. 5.1.4: 2020 1I2 class t-shirt](../.gitbook/assets/1i2shirt.png)
+![Fig. 5.1.4: 2020 1I2 class shirt](../.gitbook/assets/1i2shirt.png)
 
-![Fig. 5.1.5: 2021 2I2 class t-shirt design](../.gitbook/assets/combine.png)
+![Fig. 5.1.5: 2021 2I2 class shirt design](../.gitbook/assets/combine.png)
 
 #### Consortium T-Shirts
 
-![Fig. 5.1.6: 2021 iSpark t-shirt](../.gitbook/assets/isparkshirt.png)
+![Fig. 5.1.6: 2021 iSpark shirt](../.gitbook/assets/isparkshirt.png)
 
+![Fig. 5.1.7: 2022 Aphelion shirt design submission](../.gitbook/assets/aphelionshirt.png)
+
+### Earning some money from commissions
+
+Using social media and other various platforms, I have found people who wanted designs and agreed with me helping them. This allows me to earn some pocket money from doing commissions.
