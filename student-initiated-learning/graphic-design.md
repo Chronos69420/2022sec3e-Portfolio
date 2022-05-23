@@ -39,7 +39,7 @@ _Fig. 5.1.2: Adobe Illustrator website_
 Lastly, for designing webpages, applications, software and UI (User Interface) prototypes, I learnt how to use Figma.
 
 {% embed url="https://www.figma.com" %}
-_Fig. 5.1.2: Figma website_
+_Fig. 5.1.3: Figma website_
 {% endembed %}
 
 Figma was also particularly useful for my [project work](broken-reference) for making prototypes.
@@ -50,6 +50,15 @@ Figma was also particularly useful for my [project work](broken-reference) for m
 
 Having such a skill enabled me to help my class and even the school design and create things.
 
-#### Class T-shirts
+#### Class T-Shirts
 
 I have designed multiple T-shirts for my class over the years.
+
+![Fig. 5.1.4: 2020 1I2 class t-shirt](../.gitbook/assets/1i2shirt.png)
+
+![Fig. 5.1.5: 2021 2I2 class t-shirt design](../.gitbook/assets/combine.png)
+
+#### Consortium T-Shirts
+
+![Fig. 5.1.6: 2021 iSpark t-shirt](../.gitbook/assets/isparkshirt.png)
+
