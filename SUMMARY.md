@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-* [SLF Introduction](README.md)
+* [Student-Lead Forum](README.md)
 * [Goals](introduction/goals.md)
 
 ## 📚 Academics
