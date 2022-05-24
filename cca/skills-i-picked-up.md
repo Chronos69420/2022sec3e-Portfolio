@@ -8,7 +8,7 @@ description: Some useful skills I picked up from Robotics
 
 Mechanical Design refers to designing the mechanism and the more physical aspect of the robots. For example, I learnt how to prototype our robot parts by 3D Modelling them using CAD (computer-aided design) software.
 
-![Fig. 3.3.1: Screenshot of CAD Software (AutoCAD 2023) with RoboCup Robot](<../.gitbook/assets/image (5) (1).png>)
+![Fig. 3.3.1: Screenshot of AutoCAD 2023 (CAD software) with RoboCup Robot](<../.gitbook/assets/image (5) (1).png>)
 
 Making analyses of mechanical parts is another important skill.
 
@@ -28,7 +28,7 @@ plotGraph(x,y)
 
 I also learnt how to use the 3D printer that our CCA owns.
 
-![Fig. 3.3.3: Screenshot of 3D Priting Slicing Software (Ultimaker CURA)](<../.gitbook/assets/image (6) (1).png>)
+![Fig. 3.3.3: Screenshot of 3D Priting Slicing Software (Ultimaker CURA)](<../.gitbook/assets/image (6) (1) (1).png>)
 
 ![Fig. 3.3.4: Hwa Chong Robotics' Creality CR-10 3D printer](../.gitbook/assets/20220523\_163518.jpg)
 
@@ -44,15 +44,15 @@ Electrical design refers to the designing of custom PCBs (Printed Circuit Boards
 
 Fig. 3.2.7 and 3.2.8 shows one of the many PCB designs from 2021 - 2022's RoboCup Lightweight Competition.
 
-![Fig. 3.3.7: Screenshot of Layer 1 PCB .brd design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (1) (1).png>)
+![Fig. 3.3.7: Screenshot of Layer 1 PCB .brd design in EAGLE (ECAD software)](<../.gitbook/assets/image (1) (1).png>)
 
-![Fig. 3.3.8: Screenshot of Layer 1 PCB .sch design in PCB Design Software (EAGLE)](<../.gitbook/assets/image (3) (1).png>)
+![Fig. 3.3.8: Screenshot of Layer 1 PCB .sch design in EAGLE (ECAD software)](<../.gitbook/assets/image (3) (1).png>)
 
 ![Fig. 3.3.9: My robot's printed circuit boards](../.gitbook/assets/20220523\_163628.jpg)
 
 Another skill I picked up is the skill of using a soldering iron. Soldering is a process in which two or more items are joined together by melting and putting a filler metal at high temperatures (\~350°C) into the joint, the filler metal having a lower melting point than the adjoining metal.
 
-![Fig 3.3.10: Google image of soldering process](<../.gitbook/assets/image (6).png>)
+![Fig 3.3.10: Google image of soldering process](<../.gitbook/assets/image (6) (1).png>)
 
 ![Fig. 3.3.11: Hwa Chong Robotics' soldering station](../.gitbook/assets/20220523\_163527.jpg)
 

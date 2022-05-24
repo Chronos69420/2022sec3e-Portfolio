@@ -6,10 +6,6 @@ description: Accomplishments I'm proud of (Academics achievements)
 
 ## What am I really proud of?
 
-### Exams and tests
-
-I scored an A1 on my Mathematics, Physics, Computing and History CTs in Term 2.
-
 ### Good time management
 
 I am glad that I have been able to manage my time properly, balancing schoolwork, CCA and other commitments well, such that I can hand in my work on time.&#x20;
