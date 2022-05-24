@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-* [Zhu Yunsong 2022 Sec 3 e-Portfolio](README.md)
+* [SLF Introduction](README.md)
 * [Goals](introduction/goals.md)
 
 ## 📚 Academics
