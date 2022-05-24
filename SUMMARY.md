@@ -1,13 +1,15 @@
 # Table of contents
 
+## 👋 Introduction
+
 * [Zhu Yunsong 2022 Sec 3 e-Portfolio](README.md)
+* [Goals](introduction/goals.md)
 
 ## 📚 Academics
 
 * [Subjects](academics/subjects.md)
 * [Talent Programme](academics/talent-programme.md)
 * [Accomplishments](academics/accomplishments.md)
-* [Getting There](academics/getting-there.md)
 
 ## 🤖 CCA
 
