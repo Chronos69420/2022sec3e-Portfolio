@@ -36,7 +36,7 @@ RoboCup is the section that I specialise in, specifically RoboCup Lightweight
 
 In this section, we build completely autonomous robots that play soccer/football against each other.
 
-![Fig. 3.2.4: RoboCup](../.gitbook/assets/image.png)
+![Fig. 3.2.4: RoboCup](<../.gitbook/assets/image (1).png>)
 
 RoboCup competitions require us to design our robots from scratch, as it does not have premade parts like [LEGO ](sections.md#lego)and [VEX](sections.md#vex). We have to design our 3D parts and 3D print them (Mechanical Design). We also have to design our own circuit boards, send them for printing and purchase electrical components to solder onto our circuit boards.
 

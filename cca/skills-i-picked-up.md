@@ -44,7 +44,7 @@ Electrical design refers to the designing of custom PCBs (Printed Circuit Boards
 
 Fig. 3.2.7 and 3.2.8 shows one of the many PCB designs from 2021 - 2022's RoboCup Lightweight Competition.
 
-![Fig. 3.3.7: Screenshot of Layer 1 PCB .brd design in EAGLE (ECAD software)](<../.gitbook/assets/image (1) (1).png>)
+![Fig. 3.3.7: Screenshot of Layer 1 PCB .brd design in EAGLE (ECAD software)](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ![Fig. 3.3.8: Screenshot of Layer 1 PCB .sch design in EAGLE (ECAD software)](<../.gitbook/assets/image (3) (1).png>)
 
@@ -55,6 +55,12 @@ Another skill I picked up is the skill of using a soldering iron. Soldering is a
 ![Fig 3.3.10: Google image of soldering process](<../.gitbook/assets/image (6) (1).png>)
 
 ![Fig. 3.3.11: Hwa Chong Robotics' soldering station](../.gitbook/assets/20220523\_163527.jpg)
+
+### CIP Hours during March Holidays
+
+During this year's March holidays, I volunteered to go back to school to help the Makerspace solder a mechnical numpad that was a gift for the teachers, as I had experience in soldering.
+
+![Fig. 3.3.12: Mechnical numpad for teachers](<../.gitbook/assets/Photo from Chronos 永久の.jpg>)
 
 ## Coding & Programming
 
