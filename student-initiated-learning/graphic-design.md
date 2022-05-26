@@ -22,6 +22,8 @@ Keep in mind that everything I've mentioned so far was self-taught using tutoria
 
 Other than Photoshop, I also learnt how to use many other design tools that were a better fit for the result I was trying to achieve.
 
+> Adobe Photoshop is the predominant **photo editing and manipulation software** on the market. Its uses range from the full-featured editing of large batches of photos to creating intricate digital paintings and drawings that mimic those done by hand.
+
 {% embed url="https://www.adobe.com/sg/products/photoshop.html" %}
 _Fig. 5.1.1: Adobe Photoshop website_
 {% endembed %}
@@ -29,6 +31,8 @@ _Fig. 5.1.1: Adobe Photoshop website_
 ### Adobe Illustrator
 
 Another tool I used was Adobe Illustrator, which was better for drawing logos and flat-coloured shapes.
+
+> Adobe Illustrator is the industry standard design app that lets you **capture your creative vision with shapes, color, effects, and typography**. Work across desktop and mobile devices and quickly create beautiful designs that can go anywhere
 
 {% embed url="https://www.adobe.com/sg/products/illustrator.html" %}
 _Fig. 5.1.2: Adobe Illustrator website_
