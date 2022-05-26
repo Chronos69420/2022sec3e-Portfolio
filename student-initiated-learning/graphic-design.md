@@ -42,6 +42,8 @@ _Fig. 5.1.2: Adobe Illustrator website_
 
 Lastly, for designing webpages, applications, software and UI (User Interface) prototypes, I learnt how to use Figma.
 
+> Figma is a online collaboration tools that designers and developers use **to build digital products**. Online collaboration tools allow designers and developers to edit, comment, and review designs and code together.
+
 {% embed url="https://www.figma.com" %}
 _Fig. 5.1.3: Figma website_
 {% endembed %}
